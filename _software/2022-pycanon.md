@@ -1,6 +1,7 @@
 ---
 title: "pyCANON"
 collection: software
+type: "Software"
 permalink: /software/2022-pycanon
 ---
 

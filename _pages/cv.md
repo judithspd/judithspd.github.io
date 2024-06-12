@@ -18,18 +18,18 @@ Education and research experience
 - (September 2016 - June 2020) Degree in mathematics with a major in computer science. University of Cantabria. Final degree project: _"Optimization Problems Associated with Differential Equation Models for Chemotherapy"_ (_cum laude_), available [here](https://repositorio.unican.es/xmlui/handle/10902/20601)..
 
 
-Publications in peer reviewd high impact journals
+Publications in peer reviewed high impact journals
 ======
-- (2023) **Sáinz-Pardo Díaz, J.**, Castrillo, M., & López García, Á. (2023). Deep learning based soft-sensor for continuous chlorophyll estimation on decentralized data. Water Research, 120726. https://doi.org/10.1016/j.watres.2023.120726.
-- (2023) Heredia Cacha, I., **Sáinz-Pardo Díaz, J.**, Castrillo, M., & López García, Á. (2023). Forecasting COVID-19 spreading through an ensemble of classical and machine learning models: Spain’s case study. Scientific Reports, 13(1), 6750. https://doi.org/10.1038/s41598-023-33795-8.
-- (2023) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2023). Study of the performance and scalability of federated learning for medical imaging with intermittent clients. Neurocomputing, 518, 142-154. https://doi.org/10.1016/j.neucom.2022.11.011.
-- (2022) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2022). A Python library to check the level of anonymity of a dataset. Scientific Data, 9(1), 785. https://doi.org/10.1038/s41597-022-01894-2.
-- (2022) Fernández, L. A., Pola, C., & **Sáinz-Pardo, J.** (2022). A mathematical justification for metronomic chemotherapy in oncology. Mathematical Modelling of Natural Phenomena, 17, 12. https://doi.org/10.1051/mmnp/2022010.
+- (2023) **Sáinz-Pardo Díaz, J.**, Castrillo, M., & López García, Á. (2023). Deep learning based soft-sensor for continuous chlorophyll estimation on decentralized data. Water Research, 120726. <https://doi.org/10.1016/j.watres.2023.120726>.
+- (2023) Heredia Cacha, I., **Sáinz-Pardo Díaz, J.**, Castrillo, M., & López García, Á. (2023). Forecasting COVID-19 spreading through an ensemble of classical and machine learning models: Spain’s case study. Scientific Reports, 13(1), 6750. <https://doi.org/10.1038/s41598-023-33795-8>.
+- (2023) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2023). Study of the performance and scalability of federated learning for medical imaging with intermittent clients. Neurocomputing, 518, 142-154. <https://doi.org/10.1016/j.neucom.2022.11.011>.
+- (2022) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2022). A Python library to check the level of anonymity of a dataset. Scientific Data, 9(1), 785. <https://doi.org/10.1038/s41597-022-01894-2>.
+- (2022) Fernández, L. A., Pola, C., & **Sáinz-Pardo, J.** (2022). A mathematical justification for metronomic chemotherapy in oncology. Mathematical Modelling of Natural Phenomena, 17, 12. <https://doi.org/10.1051/mmnp/2022010>.
   
-Publications in high impact international conferences:
+Publications in high impact peer reviewed international conferences:
 ======
 - (2024) **Sáinz-Pardo Díaz, J.**, Heredia Canales, A., Heredia Cachá, I., Tran, V., Nguyen, G., Alibabaei, K., Obregón Ruiz, M., Rebolledo Ruiz, S., \& López García, Á. Making Federated Learning Accessible to Scientists: The AI4EOSC Approach. 2024 12th ACM Workshop on Information Hiding and Multimedia Security, Special Session: Security and Privacy Challenges towards Trustworthy Federated Learning, pp., ISBN 979-8-4007-0637-0/24/06. **Accepted. To be publised.**
-- (2023) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2023). Comparison of machine learning models applied on anonymized data with different techniques, 2023 IEEE International Conference on Cyber Security and Resilience (CSR), Venice, Italy, 2023, pp. 618-623. https://doi.org/10.1109/CSR57506.2023.10224917.
+- (2023) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2023). Comparison of machine learning models applied on anonymized data with different techniques, 2023 IEEE International Conference on Cyber Security and Resilience (CSR), Venice, Italy, 2023, pp. 618-623. <https://doi.org/10.1109/CSR57506.2023.10224917>.
   
 Attendance to conferences and workshops:
 ======
@@ -61,8 +61,8 @@ Scientific posters
 
 Software
 ======
-- (2024) Sáinz-Pardo Díaz, J.,  López García, Á. (2024). ANJANA. DOI: https://zenodo.org/records/11186382.
-- (2024) Sáinz-Pardo Díaz, J.,  López García, Á. (2022). pyCANON. DOI: https://doi.org/10.20350/digitalCSIC/15280. 
+- (2024) Sáinz-Pardo Díaz, J.,  López García, Á. (2024). ANJANA. DOI: <https://zenodo.org/records/11186382>.
+- (2024) Sáinz-Pardo Díaz, J.,  López García, Á. (2022). pyCANON. DOI: <https://doi.org/10.20350/digitalCSIC/15280>. 
 
 
 Teaching:

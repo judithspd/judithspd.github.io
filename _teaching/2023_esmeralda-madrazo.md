@@ -1,7 +1,7 @@
 ---
-title: "Final master thesis supervision. Building a Python library for anonymizing sensitive data"
+title: "Final master thesis supervision: Building a Python library for anonymizing sensitive data"
 collection: teaching
-type: "Final master thesis supervision:"
+type: "Final master thesis supervision"
 permalink: /teaching/2023-esmeralda-madrazo
 venue: "International University Menéndez Pelayo (UIMP) and University of Cantabria (UC)"
 date: 2023-09-27

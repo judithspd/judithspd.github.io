@@ -1,7 +1,7 @@
 ---
-title: "Final master thesis supervision. Analyzing the performance of machine learning models on anonymized data"
+title: "Final master thesis supervision: Analyzing the performance of machine learning models on anonymized data"
 collection: teaching
-type: "Final master thesis supervision:"
+type: "Final master thesis supervision"
 permalink: /teaching/2023-tfm-carmen-marcos
 venue: "International University Menéndez Pelayo (UIMP) and University of Cantabria (UC)"
 date: 2023-07-14

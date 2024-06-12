@@ -20,10 +20,9 @@ repository               : "judithspd/judithspd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Judith Sáinz-Pardo Díaz"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Data Science Researcher"
   location         : "Spain"
   employer         : "Spanish national Research Council"
   uri              : # URL

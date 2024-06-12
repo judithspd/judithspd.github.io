@@ -10,7 +10,7 @@ location: "Online"
 
 Event: Flower Monthly, January 2024. 
 
-Date and place: january 3, 2024. Online
+Date and place: January 3, 2024. Online
 
 Talk: "Federated Learning with Flower in the European Open Science Cloud". Talk given joinly with Álvaro López García.
 

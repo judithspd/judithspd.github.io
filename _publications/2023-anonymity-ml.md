@@ -2,7 +2,7 @@
 title: "Comparison of machine learning models applied on anonymized data with different techniques"
 collection: publications
 permalink: /publication/2023-anonymity-ml
-date: 2023-01-21
+date: 2023-07-31
 venue: 'Proceeding of the 2023 IEEE International Conference on Cyber Security and Resilience (CSR)'
 paperurl: 'https://doi.org/10.1109/CSR57506.2023.10224917'
 citation: 'Sáinz-Pardo Díaz, J., & López García, Á. (2023). Comparison of machine learning models applied on anonymized data with different techniques, 2023 IEEE International Conference on Cyber Security and Resilience (CSR), Venice, Italy, 2023, pp. 618-623. https://doi.org/10.1109/CSR57506.2023.10224917'

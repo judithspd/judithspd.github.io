@@ -2,8 +2,8 @@
 title: "Deep learning based soft-sensor for continuous chlorophyll estimation on decentralized data"
 collection: publications
 permalink: /publication/2023-fl-water-quality
-date: 2023-01-21
-venue: 'Neurocomputing'
+date: 2023-10-14
+venue: 'Water Research'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0043135423011661'
 citation: 'Sáinz-Pardo Díaz, J., Castrillo, M., & López García, Á. (2023). Deep learning based soft-sensor for continuous chlorophyll estimation on decentralized data. Water Research, 120726. https://doi.org/10.1016/j.watres.2023.120726'
 ---

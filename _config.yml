@@ -20,6 +20,7 @@ repository               : "judithspd/judithspd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+  # avatar         : "profile.png"
   name             : "Judith Sáinz-Pardo Díaz"
   pronouns         : # example: "she/her"  
   bio              : "Data Science Researcher"

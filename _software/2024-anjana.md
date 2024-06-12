@@ -1,6 +1,7 @@
 ---
 title: "ANJANA"
 collection: software
+type: "Talk"
 permalink: /software/2022-anjana
 ---
 

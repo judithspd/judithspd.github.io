@@ -1,11 +1,11 @@
 ---
 title: "A Python library to check the level of anonymity of a dataset"
 collection: publications
-permalink: /publication/fl-medical-imaging
+permalink: /publication/2022-pycanon
 date: 2022-12-26
-venue: 'Scientific data'
+venue: 'Scientific Data'
 paperurl: 'https://www.nature.com/articles/s41597-022-01894-2'
-citation: 'Sáinz-Pardo Díaz, J., López García, Á. A Python library to check the level of anonymity of a dataset. _Sci Data_ **9**, 785 (2022). https://doi.org/10.1038/s41597-022-01894-2'
+citation: 'Sáinz-Pardo Díaz, J., López García, Á. A Python library to check the level of anonymity of a dataset. Sci Data 9, 785 (2022). https://doi.org/10.1038/s41597-022-01894-2'
 ---
 
 **Abstract**

@@ -1,11 +1,11 @@
 ---
 title: "Study of the performance and scalability of federated learning for medical imaging with intermittent clients"
 collection: publications
-permalink: /publication/fl-medical-imaging
+permalink: /publication/2023-fl-medical-imaging
 date: 2023-01-21
 venue: 'Neurocomputing'
 paperurl: 'https://doi.org/10.1016/j.neucom.2022.11.011'
-citation: 'Sáinz-Pardo Díaz, J., & López García, Á. (2023). Study of the performance and scalability of federated learning for medical imaging with intermittent clients. Neurocomputing, 518, 142-154.'
+citation: 'Sáinz-Pardo Díaz, J., & López García, Á. (2023). Study of the performance and scalability of federated learning for medical imaging with intermittent clients. Neurocomputing, 518, 142-154. https://doi.org/10.1016/j.neucom.2022.11.011'
 ---
 
 **Abstract**

@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Master in Data Science (2021-2022)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master course"
+permalink: /teaching/2022_MDS
+venue: "International University Menéndez Pelayo (UIMP) and University of Cantabria"
+date: Academic year 2021-2022
+location: "Santander, Spain"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching at the course on: Security, privacy and legal aspects. 7 sessions (2 hours each). Topics: differential privacy, federated learning.
 
 Heading 1
 ======

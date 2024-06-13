@@ -14,4 +14,4 @@ Event: Zero-code tools & BMZ Community partners – Workshop (organized by the A
 
 Date and place: June 10-11, 2024. Madrid, Spain.
 
-URL: https://ai4life.eurobioimaging.eu/event/workshop-hackathon-uploathon-madrid/
+URL: <https://ai4life.eurobioimaging.eu/event/workshop-hackathon-uploathon-madrid/>.

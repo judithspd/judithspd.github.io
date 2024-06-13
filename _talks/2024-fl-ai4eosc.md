@@ -13,5 +13,5 @@ Event: AI4EOSC webinars (3).
 
 Date and place: April 22, 2024. Online
 
-Video: https://www.youtube.com/watch?v=v7blpOB92C8&pp=ygUQYWk0ZW9zYyB3ZWJpbmFycw%3D%3D
+Video: <https://www.youtube.com/watch?v=v7blpOB92C8&pp=ygUQYWk0ZW9zYyB3ZWJpbmFycw%3D%3D>.
 

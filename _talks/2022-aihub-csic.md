@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2022-aihub-csic
 venue: "AIHUB CSIC Summer School 2022"
-date: 2023-07-04
+date: 2022-07-04
 location: "Palma de Mallorca, Spain"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "EOSC SIESTA project kick off meeting"
 collection: talks
-type: "Talk"
+type: "Attendance"
 permalink: /talks/2024-eosc-siesta-kom
 venue: "EOSC SIESTA KoM"
 date: 2024-01-25

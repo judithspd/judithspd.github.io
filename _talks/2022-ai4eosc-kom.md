@@ -1,7 +1,7 @@
 ---
 title: "AI4EOSC project kick off meeting"
 collection: talks
-type: "Talk"
+type: "Attendance"
 permalink: /talks/2022-ai4eosc-kom
 venue: "AI4EOSC KoM"
 date: 2022-10-05

@@ -1,7 +1,7 @@
 ---
 title: "AIHUB CSIC Summer School 2022"
 collection: talks
-type: "Talk"
+type: "Attendance"
 permalink: /talks/2022-aihub-csic
 venue: "AIHUB CSIC Summer School 2022"
 date: 2022-07-04

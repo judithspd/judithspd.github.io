@@ -5,7 +5,7 @@ permalink: /publication/2024-fl-ai4eosc
 date: 2024-01-01
 venue: 'Proceedings of the 2024 ACM Workshop on Information Hiding and Multimedia Security'
 paperurl: 'https://dl.acm.org/doi/10.1145/3658664.3659642'
-citation: 'Judith Sáinz-Pardo Díaz, Andrés Heredia Canales, Ignacio Heredia Cachá, Viet Tran, Giang Nguyen, Khadijeh Alibabaei, Marta Obregón Ruiz, Susana Rebolledo Ruiz, and Álvaro López García. 2024. Making Federated Learning Accessible to Scientists: The AI4EOSC Approach. In Proceedings of the 2024 ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec '24). Association for Computing Machinery, New York, NY, USA, 253–264. https://doi.org/10.1145/3658664.3659642'
+citation: 'Judith Sáinz-Pardo Díaz, Andrés Heredia Canales, Ignacio Heredia Cachá, Viet Tran, Giang Nguyen, Khadijeh Alibabaei, Marta Obregón Ruiz, Susana Rebolledo Ruiz, and Álvaro López García. 2024. Making Federated Learning Accessible to Scientists: The AI4EOSC Approach. In Proceedings of the 2024 ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec 24). Association for Computing Machinery, New York, NY, USA, 253–264. https://doi.org/10.1145/3658664.3659642'
 ---
 
 **Abstract**

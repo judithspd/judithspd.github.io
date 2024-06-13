@@ -8,9 +8,7 @@ date: 2023-11-15
 location: "Bratislava, Slovakia"
 ---
 
-The workshop intended to bring [AI4EOSC](https://ai4eosc.eu/) platform users, supporters, and developers together to share their experiences and upcoming updates of the platform.
-
-Talk: Federated Learning with Flower
+The workshop intended to bring [AI4EOSC](https://ai4eosc.eu/) platform users, supporters, and developers together to share their experiences and upcoming updates of the platform. Talk: Federated Learning with Flower
 
 Date and place: November 15-16, 2024. Bratislava, Slovakia.
 

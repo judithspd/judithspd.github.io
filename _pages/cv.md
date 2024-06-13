@@ -28,7 +28,7 @@ Publications in peer reviewed high impact journals
   
 Publications in high impact peer reviewed international conferences:
 ======
-- (2024) **Sáinz-Pardo Díaz, J.**, Heredia Canales, A., Heredia Cachá, I., Tran, V., Nguyen, G., Alibabaei, K., Obregón Ruiz, M., Rebolledo Ruiz, S., \& López García, Á. Making Federated Learning Accessible to Scientists: The AI4EOSC Approach. 2024 12th ACM Workshop on Information Hiding and Multimedia Security, Special Session: Security and Privacy Challenges towards Trustworthy Federated Learning, pp., ISBN 979-8-4007-0637-0/24/06. **Accepted. To be publised.**
+- (2024) **Sáinz-Pardo Díaz, J.**, Heredia Canales, A., Heredia Cachá, I., Tran, V., Nguyen, G., Alibabaei, K., Obregón Ruiz, M., Rebolledo Ruiz, S., & López García, Á. Making Federated Learning Accessible to Scientists: The AI4EOSC Approach. In Proceedings of the 2024 ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec '24). Association for Computing Machinery, New York, NY, USA, 253–264. <https://doi.org/10.1145/3658664.3659642>.
 - (2023) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2023). Comparison of machine learning models applied on anonymized data with different techniques, 2023 IEEE International Conference on Cyber Security and Resilience (CSR), Venice, Italy, 2023, pp. 618-623. <https://doi.org/10.1109/CSR57506.2023.10224917>.
   
 Attendance to conferences and workshops:

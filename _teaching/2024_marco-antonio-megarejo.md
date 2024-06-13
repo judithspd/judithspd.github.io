@@ -14,7 +14,7 @@ Author: Marco Antonio Melgarejo Aragón.
 
 Directors: Judith Sáinz-Pardo Díaz and Álvaro López García.
 
-Distributed machine/deep learning refers to algorithms and systems designed to enhance
+**Abstract**: Distributed machine/deep learning refers to algorithms and systems designed to enhance
 performance, preserve privacy, and scale to larger training data and models. The aim
 of this study is to compare the performance of different distributed machine learning
 techniques, such as federated learning, gossip learning, or ring all-reduce architecture. To

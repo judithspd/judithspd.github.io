@@ -15,7 +15,7 @@ Education and research experience
 - (July 2021 - _present_) Data Science Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Working on different projects, mainly: FACE, AI4EOSC, EOSC SIESTA.
 - (September 2020 - June 2021) Interuniversity Master in Data Science. International University Menendez Pelayo (UIMP) and University of Cantabria (UC). Final master thesis: _"Predictive Maintenance and Spectral Analysis: from Fourier to Machine Learning"_ (_cum laude_), available [here](https://digital.csic.es/handle/10261/245733).
 - (October 2017 - September 2019) Master in Entrepreneurship. University of Cantabria and CISE (Santander International Center for Entrepreneurship) with the support of Santander Universities.
-- (September 2016 - June 2020) Degree in mathematics with a major in computer science. University of Cantabria. Final degree project: _"Optimization Problems Associated with Differential Equation Models for Chemotherapy"_ (_cum laude_), available [here](https://repositorio.unican.es/xmlui/handle/10902/20601)..
+- (September 2016 - June 2020) Degree in mathematics with a major in computer science. University of Cantabria. Final degree project: _"Optimization Problems Associated with Differential Equation Models for Chemotherapy"_ (_cum laude_), available [here](https://repositorio.unican.es/xmlui/handle/10902/20601).
 
 
 Publications in peer reviewed high impact journals

@@ -10,21 +10,21 @@ redirect_from:
 
 About me
 ======
-I hold a degree in Mathematics with a major in Computer Science from the University of Cantabria (UC), which I completed in 2020. During my undergraduate studies, I was awarded a scholarship to pursue a Master's in Entrepreneurship at the UC-Centro Internacional de Santander Emprendimiento. This opportunity allowed me to gain cross-disciplinary and soft skills in addition to the technical and analytical competencies I developed during the Mathematics degree.
+I hold a degree in Mathematics with a major in Computer Science from the University of Cantabria (UC), which I completed in 2020. During my undergraduate studies, I was awarded with a scholarship to pursue a Master's in Entrepreneurship at the UC-Centro Internacional de Santander Emprendimiento. This opportunity allowed me to gain cross-disciplinary and soft skills in addition to the technical and analytical competencies I developed during the Mathematics degree.
 
 Following this, I completed the Master's in Data Science from the Menéndez Pelayo International University (UIMP) and the University of Cantabria (UC). Since completing this Master's program, I have been working as a Data Science Researcher at the [Advanced Computing and e-Science Group](https://advancedcomputing.ifca.es/) at the [Institute of Physics of Cantabria](https://ifca.unican.es), affiliated with the [Spanish National Research Council (CSIC)](https://www.csic.es/).
 
 In September 2022 I joined the PhD program in Science and Technology at the University of Cantabria, to develop my PhD thesis on privacy preserving techniques in data science environments.
 
-I'm currently working on differernt European projects focused on the development of advanced AI techniques, such as the [AI4EOSC project](https://ai4eosc.eu/), and also on the EOSC SIESTA project which aims to provide a set of tools for the effective sharing, management and analysis of sensitive data.
+I'm currently working on different European projects focused on the development of advanced AI techniques, such as the [AI4EOSC project](https://ai4eosc.eu/), and also on the EOSC SIESTA project which aims to provide a set of tools for the effective sharing, management and analysis of sensitive data.
 
 Research interests
 ======
-- Federated learning and others privacy preserving machine learning techniques
-- Data privacy: anonymization, pseudonimization, differential privacy
-- Privacy enhancing technologies
-- Application of federated learning to different use cases: medical imaging, water quality, etc
-- Artificial intelligence: machine learning and deep learning
+- Federated learning and others privacy preserving machine learning techniques.
+- Data privacy: anonymization, pseudonimization, differential privacy.
+- Privacy enhancing technologies.
+- Application of federated learning to different use cases: medical imaging, water quality, etc.
+- Artificial intelligence: machine learning and deep learning.
 
 Short academic bio
 ------

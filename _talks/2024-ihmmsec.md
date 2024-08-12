@@ -11,5 +11,5 @@ Presentation of the paper: [_"Making Federated Learning Accessible to Scientists
 
 Event: 12th ACM Workshop on Information Hiding and Multimedia Security. Special Session: Security and Privacy Challenges towards Trustworthy Federated Learning.
 
-Date and place: June 24-26, 2023. Baiona, Spain.
+Date and place: June 24-26, 2024. Baiona, Spain.
 

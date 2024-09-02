@@ -14,6 +14,8 @@ In my day-to-day work, I write a lot of code, especially for privacy-preserving 
 	Authors: Judith Sáinz-Pardo Díaz and Álvaro López García (IFCA - CSIC).
 
 	The ANJANA documentation is hosted on [Read the Docs](https://anjana.readthedocs.io/). It can be installed using [PyPI](https://pypi.org/project/anjana/).
+
+	More information can be found in this [preprint](https://arxiv.org/abs/2408.10766). 
 	
 - [*pyCANON*](https://github.com/IFCA-Advanced-Computing/pycanon): a Python library to check the level of anonymity of a dataset. 
 

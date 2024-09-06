@@ -20,7 +20,7 @@ Education and research experience
 
 Publications in peer reviewed high impact journals
 ======
-- (2024) **Sáinz-Pardo Díaz, J.**, Castrillo, M., Bartok, J., Heredia Cachá, I., Malkin Ondík, I., Martynovskyi, I., Alibabaei, K., Berberi, L., Kozlov, V. & López García, Á. (2024). _Personalized Federated Learning for improving radar based precipitation nowcasting on heterogeneous areas_. Accepted for publication in Earth Science Informatics (July 31, 2024), to be published.
+- (2024) **Sáinz-Pardo Díaz, J.**, Castrillo, M., Bartok, J., Heredia Cachá, I., Malkin Ondík, I., Martynovskyi, I., Alibabaei, K., Berberi, L., Kozlov, V. & López García, Á. (2024). _Personalized Federated Learning for improving radar based precipitation nowcasting on heterogeneous areas_. Earth Science Informatics. <https://doi.org/10.1007/s12145-024-01438-9>.
 - (2023) **Sáinz-Pardo Díaz, J.**, Castrillo, M., & López García, Á. (2023). _Deep learning based soft-sensor for continuous chlorophyll estimation on decentralized data_. Water Research, 120726. <https://doi.org/10.1016/j.watres.2023.120726>.
 - (2023) Heredia Cacha, I., **Sáinz-Pardo Díaz, J.**, Castrillo, M., & López García, Á. (2023). _Forecasting COVID-19 spreading through an ensemble of classical and machine learning models: Spain’s case study_. Scientific Reports, 13(1), 6750. <https://doi.org/10.1038/s41598-023-33795-8>.
 - (2023) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2023). _Study of the performance and scalability of federated learning for medical imaging with intermittent clients_. Neurocomputing, 518, 142-154. <https://doi.org/10.1016/j.neucom.2022.11.011>.

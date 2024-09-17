@@ -28,7 +28,8 @@ Research interests
 
 Short academic bio
 ------
-- (December 2022 - _present_) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_. Supervisor: [Dr. Álvaro López García](https://alvarolopez.github.io/).
+- (September 2024 - _present_) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: COMETE (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
+- (December 2022 - _present_) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_. Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/).
 - (July 2021 - _present_) Data Science Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Working on different projects, mainly: FACE, AI4EOSC, EOSC SIESTA.
 - (September 2020 - June 2021) Interuniversity Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Final master thesis: _"Predictive Maintenance and Spectral Analysis: from Fourier to Machine Learning"_ (_cum laude_), available [here](https://digital.csic.es/handle/10261/245733).
 - (October 2017 - September 2019) Master in Entrepreneurship. University of Cantabria and CISE (Santander International Center for Entrepreneurship) with the support of Santander Universities.

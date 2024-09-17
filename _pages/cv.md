@@ -11,7 +11,8 @@ redirect_from:
 
 Education and research experience
 ======
-- (December 2022 - _present_) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_. Supervisor: [Dr. Álvaro López García](https://alvarolopez.github.io/).
+- (September 2024 - _present_) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: COMETE (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
+- (December 2022 - _present_) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_. Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/).
 - (July 2021 - _present_) Data Science Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Working on different projects, mainly: FACE, AI4EOSC, EOSC SIESTA.
 - (September 2020 - June 2021) Interuniversity Master in Data Science. International University Menendez Pelayo (UIMP) and University of Cantabria (UC). Final master thesis: _"Predictive Maintenance and Spectral Analysis: from Fourier to Machine Learning"_ (_cum laude_), available [here](https://digital.csic.es/handle/10261/245733).
 - (October 2017 - September 2019) Master in Entrepreneurship. University of Cantabria and CISE (Santander International Center for Entrepreneurship) with the support of Santander Universities.
@@ -34,6 +35,11 @@ Publications in high impact peer reviewed international conferences:
   
 Attendance to conferences and workshops:
 ======
+- (2024) Data in research: challenges and opportunities. Summer courses International University
+Menéndez Pelayo (UIMP). Spanish. Curso: Los datos en investigación: retos y oportunidades.
+Cursos de verano de la Universidad internacional Men´endez Pelayo (UIMP). August 26-28, 2024.
+Santander, Spain. Talk (1/2): "Distributed Learning: advantages and risks". (Spanish - "Aprendizaje
+distribuido: ventajas y peligros"). Talk (2/2): "Practical session on federated learning". (Spanish - "Sesión práctica sobre federated learning").
 - (2024) 12th ACM Workshop on Information Hiding and Multimedia Security. Special Session: Security and Privacy Challenges towards Trustworthy Federated Learning. June 24-26, 2024. Baiona, Spain. Presentation of the paper: "Making Federated Learning Accessible to Scientists: The AI4EOSC Approach". 
 - (2024) Zero-code tools  BMZ Community partners – Workshop (organized by the AI4Life project). June 10-11, 2024. Madrid, Spain. Talk: "Advanced AI for scientists: the AI4EOSC platform approach" (given jointly with Ignacio Heredia). 
 - (2024) Flower AI Summit 2024. March 14-15, 2024. London, United Kingdom. Talk: "Federated AI in the European Open Science Cloud".
@@ -49,6 +55,8 @@ Attendance to conferences and workshops:
   
 Online talks and seminars given:
 ======
+- (2024) Joint Workshop PTI Digital Science - PTI Green Horizon. September 17, 2024. Title: "AI
+and development of AI-based solutions" (Spanish - "IA y desarrollo de soluciones basadas en IA").
 - (2024) AI4EOSC webinars (3): introduction to federated learning. April 22, 2024. Title: "Demo: FL in AI4EOSC".
 - (2024) Talk given to the MONAI FL working group. April 10, 2014. Title: 'Federated Learning within the AI4EOSC platform".
 - (2024) Flower monthly January 2024. January 3, 2024. Title: "Federated Learning with Flower in the European Open Science Cloud". Talk given joinly with Álvaro López García.

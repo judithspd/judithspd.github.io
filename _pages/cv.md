@@ -11,7 +11,7 @@ redirect_from:
 
 Education and research experience
 ======
-- (September 2024 - _present_) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: COMETE (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
+- (September 2024 - December 2024) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: COMETE (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
 - (December 2022 - _present_) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_. Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/).
 - (July 2021 - _present_) Data Science Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Working on different projects, mainly: FACE, AI4EOSC, EOSC SIESTA.
 - (September 2020 - June 2021) Interuniversity Master in Data Science. International University Menendez Pelayo (UIMP) and University of Cantabria (UC). Final master thesis: _"Predictive Maintenance and Spectral Analysis: from Fourier to Machine Learning"_ (_cum laude_), available [here](https://digital.csic.es/handle/10261/245733).
@@ -21,6 +21,7 @@ Education and research experience
 
 Publications in peer reviewed high impact journals
 ======
+- (2024) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2024). An Open Source Python Library for Anonymizing Sensitive Data. Sci Data 11, 1289. <https://doi.org/10.1038/s41597-024-04019-z}>.
 - (2024) **Sáinz-Pardo Díaz, J.**, Castrillo, M., Bartok, J., Heredia Cachá, I., Malkin Ondík, I., Martynovskyi, I., Alibabaei, K., Berberi, L., Kozlov, V. & López García, Á. (2024). _Personalized Federated Learning for improving radar based precipitation nowcasting on heterogeneous areas_. Earth Science Informatics. <https://doi.org/10.1007/s12145-024-01438-9>.
 - (2023) **Sáinz-Pardo Díaz, J.**, Castrillo, M., & López García, Á. (2023). _Deep learning based soft-sensor for continuous chlorophyll estimation on decentralized data_. Water Research, 120726. <https://doi.org/10.1016/j.watres.2023.120726>.
 - (2023) Heredia Cacha, I., **Sáinz-Pardo Díaz, J.**, Castrillo, M., & López García, Á. (2023). _Forecasting COVID-19 spreading through an ensemble of classical and machine learning models: Spain’s case study_. Scientific Reports, 13(1), 6750. <https://doi.org/10.1038/s41598-023-33795-8>.

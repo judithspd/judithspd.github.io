@@ -28,7 +28,7 @@ Research interests
 
 Short academic bio
 ------
-- (September 2024 - _present_) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: COMETE (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
+- (September 2024 - December 2024) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: COMETE (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
 - (December 2022 - _present_) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_. Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/).
 - (July 2021 - _present_) Data Science Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Working on different projects, mainly: FACE, AI4EOSC, EOSC SIESTA.
 - (September 2020 - June 2021) Interuniversity Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Final master thesis: _"Predictive Maintenance and Spectral Analysis: from Fourier to Machine Learning"_ (_cum laude_), available [here](https://digital.csic.es/handle/10261/245733).
@@ -37,7 +37,8 @@ Short academic bio
     
 Publications
 ------
-- (2024) **Sáinz-Pardo Díaz, J.**, Castrillo, M., Bartok, J., Heredia Cachá, I., Malkin Ondík, I., Martynovskyi, I., Alibabaei, K., Berberi, L., Kozlov, V. & López García, Á. (2024). _Personalized Federated Learning for improving radar based precipitation nowcasting on heterogeneous areas_. Earth Science Informatics. <https://doi.org/10.1007/s12145-024-01438-9>.
+- (2024) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2024). An Open Source Python Library for Anonymizing Sensitive Data. Sci Data 11, 1289. <https://doi.org/10.1038/s41597-024-04019-z}>.
+- (2024) **Sáinz-Pardo Díaz, J.**, Castrillo, M., Bartok, J., Heredia Cachá, I., Malkin Ondík, I., Martynovskyi, I., Alibabaei, K., Berberi, L., Kozlov, V. & López García, Á. (2024). Personalized Federated Learning for improving radar based precipitation nowcasting on heterogeneous areas. Earth Science Informatics. <https://doi.org/10.1007/s12145-024-01438-9>.
 - (2024) **Sáinz-Pardo Díaz, J.**, Heredia Canales, A., Heredia Cachá, I., Tran, V., Nguyen, G., Alibabaei, K., Obregón Ruiz, M., Rebolledo Ruiz, S., & López García, Á. Making Federated Learning Accessible to Scientists: The AI4EOSC Approach. In Proceedings of the 2024 ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec '24). Association for Computing Machinery, New York, NY, USA, 253–264. <https://doi.org/10.1145/3658664.3659642>.
 - (2023) **Sáinz-Pardo Díaz, J.**, Castrillo, M., & López García, Á. (2023). Deep learning based soft-sensor for continuous chlorophyll estimation on decentralized data. Water Research, 120726. <https://doi.org/10.1016/j.watres.2023.120726>.
 - (2023) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2023). Comparison of machine learning models applied on anonymized data with different techniques, 2023 IEEE International Conference on Cyber Security and Resilience (CSR), Venice, Italy, 2023, pp. 618-623. <https://doi.org/10.1109/CSR57506.2023.10224917>.

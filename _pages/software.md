@@ -15,7 +15,20 @@ In my day-to-day work, I write a lot of code, especially for privacy-preserving 
 
 	The ANJANA documentation is hosted on [Read the Docs](https://anjana.readthedocs.io/). It can be installed using [PyPI](https://pypi.org/project/anjana/).
 
-	More information can be found in this [preprint](https://arxiv.org/abs/2408.10766). 
+	More information can be found in this [paper](https://www.nature.com/articles/s41597-024-04019-z). 
+	If you are using ANJANA you can cite it as follows:
+	```bibtex
+	@article{sainzpardo2024anjana,
+	  title={An Open Source Python Library for Anonymizing Sensitive Data},
+	  author={S{\'a}inz-Pardo D{\'\i}az, Judith and L{\'o}pez Garc{\'\i}a, {\'A}lvaro},
+	  journal={Scientific data},
+	  volume={11},
+	  number={1},
+	  pages={1289},
+	  year={2024},
+	  publisher={Nature Publishing Group UK London}
+	}
+	```
 	
 - [*pyCANON*](https://github.com/IFCA-Advanced-Computing/pycanon): a Python library to check the level of anonymity of a dataset. 
 

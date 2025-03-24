@@ -21,6 +21,7 @@ Education and research experience
 
 Publications in peer reviewed high impact journals
 ======
+- (2025) Berberi, L., Kozlov, V., Nguyen, G., **Sáinz-Pardo Díaz, J.**, et al. Machine learning operations landscape: platforms and tools. Artif Intell Rev 58, 167 (2025). <https://doi.org/10.1007/s10462-025-11164-3>.
 - (2025) Nguyen, G., **Sáinz-Pardo Díaz, J.**, Calatrava, A. et al. Landscape of machine learning evolution: privacy-preserving federated learning frameworks and tools. Artif Intell Rev 58, 51 (2025). <https://doi.org/10.1007/s10462-024-11036-2>.
 - (2024) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2024). An Open Source Python Library for Anonymizing Sensitive Data. Sci Data 11, 1289. <https://doi.org/10.1038/s41597-024-04019-z}>.
 - (2024) **Sáinz-Pardo Díaz, J.**, Castrillo, M., Bartok, J., Heredia Cachá, I., Malkin Ondík, I., Martynovskyi, I., Alibabaei, K., Berberi, L., Kozlov, V. & López García, Á. (2024). _Personalized Federated Learning for improving radar based precipitation nowcasting on heterogeneous areas_. Earth Science Informatics. <https://doi.org/10.1007/s12145-024-01438-9>.
@@ -37,6 +38,8 @@ Publications in high impact peer reviewed international conferences:
   
 Attendance to conferences and workshops:
 ======
+- (2025) EOSC SIESTA All Hands Meeting. Instituto de Física de Cantabria (IFCA). February 4-5, 2025. Santander, Spain. Talk: "Data privacy tools in EOSC SIESTA, anjana, pyCANON and differential privacy".
+- (2025) Artificial Intelligence and Software Engineering Winter School. University of Doha for Science and Technology (UDST). Janurary 19-22, 2025. Doha, Qatar. Workshop: "the eyes of AI". Topic: "Federated learning applied to image classification" (given jointly with Fernando Aguilar and Lara Lloret). 
 - (2024) Data in research: challenges and opportunities. Summer courses International University
 Menéndez Pelayo (UIMP). Spanish. Curso: Los datos en investigación: retos y oportunidades.
 Cursos de verano de la Universidad internacional Men´endez Pelayo (UIMP). August 26-28, 2024.
@@ -57,6 +60,7 @@ distribuido: ventajas y peligros"). Talk (2/2): "Practical session on federated 
   
 Online talks and seminars given:
 ======
+- (2025) Exploring AI4EOSC: AI and LLMs from Theory to Practice. Macth 7, 2025. Title: "Why AI4EOSC? Take advantage of the platform".
 - (2024) Joint Workshop PTI Digital Science - PTI Green Horizon. September 17, 2024. Title: "AI
 and development of AI-based solutions" (Spanish - "IA y desarrollo de soluciones basadas en IA").
 - (2024) AI4EOSC webinars (3): introduction to federated learning. April 22, 2024. Title: "Demo: FL in AI4EOSC".
@@ -79,6 +83,7 @@ Software
 
 Teaching:
 ======
+- (2025) Teaching: Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Subject: Security, privacy and legal aspects. 8 sessions (2 hours each).
 - (2024) Teaching: Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Subject: Security, privacy and legal aspects. 7 sessions (2 hours each).
 - (2024) Final master thesis supervision. Title: "Comparison of distributed machine learning techniques applied to openly available medical data". Author: Marco Antonio Melgarejo Aragón. Directors: Judith Sáinz-Pardo Díaz and Álvaro López García.  
 - (2023) Final master thesis supervision. Title: "Building a Python library for anonymizing sensitive data". Author: Esmeralda Madrazo Quintana. Directors: Álvaro López García and Judith Sáinz-Pardo Díaz.  

@@ -37,6 +37,7 @@ Short academic bio
     
 Publications
 ------
+- (2025) Berberi, L., Kozlov, V., Nguyen, G., **Sáinz-Pardo Díaz, J.**, et al. Machine learning operations landscape: platforms and tools. Artif Intell Rev 58, 167 (2025). <https://doi.org/10.1007/s10462-025-11164-3>.
 - (2025) Nguyen, G., **Sáinz-Pardo Díaz, J.**, Calatrava, A. et al. Landscape of machine learning evolution: privacy-preserving federated learning frameworks and tools. Artif Intell Rev 58, 51 (2025). <https://doi.org/10.1007/s10462-024-11036-2>.
 - (2024) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2024). An Open Source Python Library for Anonymizing Sensitive Data. Sci Data 11, 1289. <https://doi.org/10.1038/s41597-024-04019-z}>.
 - (2024) **Sáinz-Pardo Díaz, J.**, Castrillo, M., Bartok, J., Heredia Cachá, I., Malkin Ondík, I., Martynovskyi, I., Alibabaei, K., Berberi, L., Kozlov, V. & López García, Á. (2024). Personalized Federated Learning for improving radar based precipitation nowcasting on heterogeneous areas. Earth Science Informatics. <https://doi.org/10.1007/s12145-024-01438-9>.

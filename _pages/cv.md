@@ -12,7 +12,7 @@ redirect_from:
 Education and research experience
 ======
 - (September 2024 - December 2024) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: COMETE (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
-- (December 2022 - _present_) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_. Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/).
+- (December 2022 - October 2025) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_ (_cum laude_). Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/).
 - (July 2021 - _present_) Data Science Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Working on different projects, mainly: FACE, AI4EOSC, EOSC SIESTA.
 - (September 2020 - June 2021) Interuniversity Master in Data Science. International University Menendez Pelayo (UIMP) and University of Cantabria (UC). Final master thesis: _"Predictive Maintenance and Spectral Analysis: from Fourier to Machine Learning"_ (_cum laude_), available [here](https://digital.csic.es/handle/10261/245733).
 - (October 2017 - September 2019) Master in Entrepreneurship. University of Cantabria and CISE (Santander International Center for Entrepreneurship) with the support of Santander Universities.
@@ -38,6 +38,7 @@ Publications in high impact peer reviewed international conferences:
   
 Attendance to conferences and workshops:
 ======
+- (2025) IEEE International Conference on Federated Learning Technologies and Applications (FLTA25). October 15-17, 2025. Dubrovnik, Croatia. Presentation of the paper: "Enhancing the Convergence of Federated Learning Aggregation Strategies with Limited Data".
 - (2025) EOSC SIESTA All Hands Meeting. Instituto de Física de Cantabria (IFCA). February 4-5, 2025. Santander, Spain. Talk: "Data privacy tools in EOSC SIESTA, anjana, pyCANON and differential privacy".
 - (2025) Artificial Intelligence and Software Engineering Winter School. University of Doha for Science and Technology (UDST). Janurary 19-22, 2025. Doha, Qatar. Workshop: "the eyes of AI". Topic: "Federated learning applied to image classification" (given jointly with Fernando Aguilar and Lara Lloret). 
 - (2024) Data in research: challenges and opportunities. Summer courses International University

@@ -10,13 +10,12 @@ redirect_from:
 
 About me
 ======
-I hold a degree in Mathematics with a major in Computer Science from the University of Cantabria (UC), which I completed in 2020. During my undergraduate studies, I was awarded with a scholarship to pursue a Master's in Entrepreneurship at the UC-Centro Internacional de Santander Emprendimiento. This opportunity allowed me to gain cross-disciplinary and soft skills in addition to the technical and analytical competencies I developed during the Mathematics degree.
+I hold a PhD in Science and Technology from the University of Cantabria (UC), with my thesis titled "Privacy Preserving Techniques in Data Science Environments" presented in 2025, receiving the highest distinction (_cum laude_). I completed the degree in Mathematics with a major in Computer Science at the University of Cantabria (UC) in 2020 and the Master's in Data Science from the Menéndez Pelayo International University (UIMP) and the University of Cantabria (UC) in 2021. During my undergraduate studies, I was awarded with a scholarship to pursue a Master's in Entrepreneurship at the UC-Centro Internacional de Santander Emprendimiento. 
 
-Following this, I completed the Master's in Data Science from the Menéndez Pelayo International University (UIMP) and the University of Cantabria (UC). Since completing this Master's program, I have been working as a Data Science Researcher at the [Advanced Computing and e-Science Group](https://advancedcomputing.ifca.es/) at the [Institute of Physics of Cantabria](https://ifca.unican.es), affiliated with the [Spanish National Research Council (CSIC)](https://www.csic.es/).
+From 2021 I have been working as a Data Science Researcher at the [Advanced Computing and e-Science Group](https://advancedcomputing.ifca.es/) at the [Institute of Physics of Cantabria](https://ifca.unican.es), affiliated with the [Spanish National Research Council (CSIC)](https://www.csic.es/).
 
-In September 2022 I joined the PhD program in Science and Technology at the University of Cantabria, to develop my PhD thesis on privacy preserving techniques in data science environments.
 
-I'm currently working on different European projects focused on the development of advanced AI techniques, such as the [AI4EOSC project](https://ai4eosc.eu/), and also on the EOSC SIESTA project which aims to provide a set of tools for the effective sharing, management and analysis of sensitive data.
+I'm currently working on different European projects focused on the development of advanced AI techniques, such as the [AI4EOSC project](https://ai4eosc.eu/), and also on the [EOSC SIESTA](https://eosc-siesta.eu/) project which aims to provide a set of tools for the effective sharing, management and analysis of sensitive data.
 
 Research interests
 ======
@@ -29,7 +28,7 @@ Research interests
 Short academic bio
 ------
 - (September 2024 - December 2024) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: COMETE (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
-- (December 2022 - _present_) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_. Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/).
+- (December 2022 - October 2024) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_ (_cum laude_). Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/).
 - (July 2021 - _present_) Data Science Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Working on different projects, mainly: FACE, AI4EOSC, EOSC SIESTA.
 - (September 2020 - June 2021) Interuniversity Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Final master thesis: _"Predictive Maintenance and Spectral Analysis: from Fourier to Machine Learning"_ (_cum laude_), available [here](https://digital.csic.es/handle/10261/245733).
 - (October 2017 - September 2019) Master in Entrepreneurship. University of Cantabria and CISE (Santander International Center for Entrepreneurship) with the support of Santander Universities.

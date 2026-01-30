@@ -15,7 +15,7 @@ I hold a PhD in Science and Technology from the University of Cantabria (UC), wi
 From 2021 I have been working as a Data Science Researcher at the [Advanced Computing and e-Science Group](https://advancedcomputing.ifca.es/) at the [Institute of Physics of Cantabria](https://ifca.unican.es), affiliated with the [Spanish National Research Council (CSIC)](https://www.csic.es/).
 
 
-I'm currently working on different European projects focused on the development of advanced AI techniques, such as the [AI4EOSC project](https://ai4eosc.eu/), and also on the [EOSC SIESTA](https://eosc-siesta.eu/) project which aims to provide a set of tools for the effective sharing, management and analysis of sensitive data.
+I'm currently working on different European and National projects focused on the development of advanced AI techniques, ML/DL models, Privacy Preserving Machine Learning techniques and data privacy.
 
 Research interests
 ======
@@ -27,15 +27,18 @@ Research interests
 
 Short academic bio
 ------
+- (July 2021 - _present_) Data Science Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Working on different projects, mainly: FACE, [AI4EOSC](https://ai4eosc.eu/), [EOSC SIESTA](https://eosc-siesta.eu/), AI4Clouds, ENGRAMMER.
 - (September 2024 - December 2024) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: COMETE (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
-- (December 2022 - October 2024) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_ (_cum laude_). Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/).
-- (July 2021 - _present_) Data Science Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Working on different projects, mainly: FACE, AI4EOSC, EOSC SIESTA.
+- (December 2022 - October 2025) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_ (_cum laude_). Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/). Available [here](https://aplicaciones.ciencia.gob.es/teseo/#/tesis/O882627/detalle).
 - (September 2020 - June 2021) Interuniversity Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Final master thesis: _"Predictive Maintenance and Spectral Analysis: from Fourier to Machine Learning"_ (_cum laude_), available [here](https://digital.csic.es/handle/10261/245733).
 - (October 2017 - September 2019) Master in Entrepreneurship. University of Cantabria and CISE (Santander International Center for Entrepreneurship) with the support of Santander Universities.
 - (September 2016 - June 2020) Degree in mathematics with a major in computer science. University of Cantabria. Final degree project: _"Optimization Problems Associated with Differential Equation Models for Chemotherapy"_ (_cum laude_), available [here](https://repositorio.unican.es/xmlui/handle/10902/20601).
     
 Publications
 ------
+- (2025) **Sáinz-Pardo Díaz, J.** & López García, Á. _Enhancing the Convergence of Federated Learning Aggregation Strategies with Limited Data_. 3rd IEEE International Conference on Federated Learning Technologies and Applications 2025 (FLTA25). Dubrovnik, Croatia, 2025, pp. 9-16. <https://doi.org/10.1109/FLTA67013.2025.11336682>.
+- (2025) Duda, L., Alibabaei, K., Vollmer, E., Klug, L., Kozlov, V., Berberi, L., Benz, M., Volk, R., Gutiérrez Hermosillo Muriedas, J. P., Götz, M., **Sáinz-Pardo Díaz, J.**, López García, Á., Schultmann, F. & Streit, A. (2025). _Exploring Federated Learning for Thermal Urban Feature Segmentation - A Comparison of Centralized and Decentralized Approaches_. Computational Science and Its Applications – ICCSA 2025. ICCSA 2025. Lecture Notes in Computer Science, vol 15648. Springer, Cham. <https://doi.org/10.1007/978-3-031-97000-9_18>.
+- (2025) Tran, V., Lopez Garía, Á., Nguyen, G., **Sáinz-Pardo Díaz, J.** & Moltó, G. _AI4EOSC: Artificial Intelligence for the European Open Science Cloud_. International Symposium on Grids and Clouds (ISGC2025). 16-21 March 2025 Academia Sinica Grid Computing Centre (ASGC), Taipei, Taiwan. <https://doi.org/10.22323/1.488.0003>.
 - (2025) Berberi, L., Kozlov, V., Nguyen, G., **Sáinz-Pardo Díaz, J.**, et al. Machine learning operations landscape: platforms and tools. Artif Intell Rev 58, 167 (2025). <https://doi.org/10.1007/s10462-025-11164-3>.
 - (2025) Nguyen, G., **Sáinz-Pardo Díaz, J.**, Calatrava, A. et al. Landscape of machine learning evolution: privacy-preserving federated learning frameworks and tools. Artif Intell Rev 58, 51 (2025). <https://doi.org/10.1007/s10462-024-11036-2>.
 - (2024) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2024). An Open Source Python Library for Anonymizing Sensitive Data. Sci Data 11, 1289. <https://doi.org/10.1038/s41597-024-04019-z}>.

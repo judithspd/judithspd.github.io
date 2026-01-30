@@ -33,6 +33,9 @@ Publications in peer reviewed high impact journals
   
 Publications in high impact peer reviewed international conferences:
 ======
+- (2025) **Sáinz-Pardo Díaz, J.** & López García, Á. _Enhancing the Convergence of Federated Learning Aggregation Strategies with Limited Data_. 3rd IEEE International Conference on Federated Learning Technologies and Applications 2025 (FLTA25). Dubrovnik, Croatia, 2025, pp. 9-16. <https://doi.org/10.1109/FLTA67013.2025.11336682>.
+- (2025) Duda, L., Alibabaei, K., Vollmer, E., Klug, L., Kozlov, V., Berberi, L., Benz, M., Volk, R., Gutiérrez Hermosillo Muriedas, J. P., Götz, M., **Sáinz-Pardo Díaz, J.**, López García, Á., Schultmann, F. & Streit, A. (2025). _Exploring Federated Learning for Thermal Urban Feature Segmentation - A Comparison of Centralized and Decentralized Approaches_. Computational Science and Its Applications – ICCSA 2025. ICCSA 2025. Lecture Notes in Computer Science, vol 15648. Springer, Cham. <https://doi.org/10.1007/978-3-031-97000-9_18>.
+- (2025) Tran, V., Lopez Garía, Á., Nguyen, G., **Sáinz-Pardo Díaz, J.** & Moltó, G. _AI4EOSC: Artificial Intelligence for the European Open Science Cloud_. International Symposium on Grids and Clouds (ISGC2025). 16-21 March 2025 Academia Sinica Grid Computing Centre (ASGC), Taipei, Taiwan. <https://doi.org/10.22323/1.488.0003>.
 - (2024) **Sáinz-Pardo Díaz, J.**, Heredia Canales, A., Heredia Cachá, I., Tran, V., Nguyen, G., Alibabaei, K., Obregón Ruiz, M., Rebolledo Ruiz, S., & López García, Á. _Making Federated Learning Accessible to Scientists: The AI4EOSC Approach_. In Proceedings of the 2024 ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec '24). Association for Computing Machinery, New York, NY, USA, 253–264. <https://doi.org/10.1145/3658664.3659642>.
 - (2023) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2023). _Comparison of machine learning models applied on anonymized data with different techniques_. 2023 IEEE International Conference on Cyber Security and Resilience (CSR), Venice, Italy, 2023, pp. 618-623. <https://doi.org/10.1109/CSR57506.2023.10224917>.
   
@@ -61,12 +64,14 @@ distribuido: ventajas y peligros"). Talk (2/2): "Practical session on federated 
   
 Online talks and seminars given:
 ======
-- (2025) Exploring AI4EOSC: AI and LLMs from Theory to Practice. Macth 7, 2025. Title: "Why AI4EOSC? Take advantage of the platform".
-- (2024) Joint Workshop PTI Digital Science - PTI Green Horizon. September 17, 2024. Title: "AI
-and development of AI-based solutions" (Spanish - "IA y desarrollo de soluciones basadas en IA").
-- (2024) AI4EOSC webinars (3): introduction to federated learning. April 22, 2024. Title: "Demo: FL in AI4EOSC".
-- (2024) Talk given to the MONAI FL working group. April 10, 2014. Title: 'Federated Learning within the AI4EOSC platform".
-- (2024) Flower monthly January 2024. January 3, 2024. Title: "Federated Learning with Flower in the European Open Science Cloud". Talk given joinly with Álvaro López García.
+- (2025) Event: EOSC SIESTA, ENTRUST and TITAN joint workshop. Chair and organizer of the event. December 10, 2025. 
+- (2025) Event: Accelerating Research with AI4EOSC: Real Use Cases Exploiting the Platform. Title: Introducing the AI4EOSC platform. May 9, 2025. 
+- (2025) Exploring AI4EOSC: AI and LLMs from Theory to Practice. Title: "Why AI4EOSC? Take advantage of the platform". March 7, 2025.
+- (2024) Joint Workshop PTI Digital Science - PTI Green Horizon. Title: "AI
+and development of AI-based solutions" (Spanish - "IA y desarrollo de soluciones basadas en IA"). September 17, 2024.
+- (2024) AI4EOSC webinars (3): introduction to federated learning. Title: "Demo: FL in AI4EOSC". April 22, 2024. 
+- (2024) Talk given to the MONAI FL working group. Title: 'Federated Learning within the AI4EOSC platform". April 10, 2014. 
+- (2024) Flower monthly January 2024. Title: "Federated Learning with Flower in the European Open Science Cloud". Talk given joinly with Á. López García. January 3, 2024. 
 
 
 Scientific posters

@@ -9,7 +9,7 @@ location: "Online"
 ---
 Talk: "Why AI4EOSC? Take advantage of the platform".
 
-Event: Exploring AI4EOSC: AI and LLMs from Theory to Practic. 
+Event: Exploring AI4EOSC: AI and LLMs from Theory to Practice. 
 
 Date and place: March 7, 2025. Online
 

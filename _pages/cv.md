@@ -21,6 +21,7 @@ Education and research experience
 
 Publications in peer reviewed high impact journals
 ======
+- (2026) Kibsgaard, E. Jwa A. S., Markiewicz, C. J., Rodriguez Gonzalez, D., **Sáinz-Pardo, J.**, Poldrack, R. A., Pernet, C. R. (2026). Assessing metadata privacy in neuroimaging. Imaging Neuroscience 2026. <https://doi.org/10.1162/IMAG.a.1144>.
 - (2025) Berberi, L., Kozlov, V., Nguyen, G., **Sáinz-Pardo Díaz, J.**, et al. Machine learning operations landscape: platforms and tools. Artif Intell Rev 58, 167 (2025). <https://doi.org/10.1007/s10462-025-11164-3>.
 - (2025) Nguyen, G., **Sáinz-Pardo Díaz, J.**, Calatrava, A. et al. Landscape of machine learning evolution: privacy-preserving federated learning frameworks and tools. Artif Intell Rev 58, 51 (2025). <https://doi.org/10.1007/s10462-024-11036-2>.
 - (2024) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2024). An Open Source Python Library for Anonymizing Sensitive Data. Sci Data 11, 1289. <https://doi.org/10.1038/s41597-024-04019-z}>.

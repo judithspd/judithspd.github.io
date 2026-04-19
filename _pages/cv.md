@@ -21,7 +21,7 @@ Education and research experience
 
 Publications in peer reviewed high impact journals
 ======
-- (2026) Sáinz-Pardo Díaz, J., Athanasiou, A., Jung, K., Palamidessi, C., & López García, Á. (2026). Metric-privacy-inspired noise calibration in federated learning: Improving convergence and preventing client inference attacks. Knowledge-Based Systems, 115993. <https://doi.org/10.1016/j.knosys.2026.115993>.
+- (2026) **Sáinz-Pardo Díaz, J.**, Athanasiou, A., Jung, K., Palamidessi, C., & López García, Á. Metric-privacy-inspired noise calibration in federated learning: Improving convergence and preventing client inference attacks. Knowledge-Based Systems, 115993. <https://doi.org/10.1016/j.knosys.2026.115993>.
 - (2026) Kibsgaard, E. Jwa A. S., Markiewicz, C. J., Rodriguez Gonzalez, D., **Sáinz-Pardo, J.**, Poldrack, R. A., Pernet, C. R. (2026). Assessing metadata privacy in neuroimaging. Imaging Neuroscience 2026. <https://doi.org/10.1162/IMAG.a.1144>.
 - (2025) Berberi, L., Kozlov, V., Nguyen, G., **Sáinz-Pardo Díaz, J.**, et al. Machine learning operations landscape: platforms and tools. Artif Intell Rev 58, 167 (2025). <https://doi.org/10.1007/s10462-025-11164-3>.
 - (2025) Nguyen, G., **Sáinz-Pardo Díaz, J.**, Calatrava, A. et al. Landscape of machine learning evolution: privacy-preserving federated learning frameworks and tools. Artif Intell Rev 58, 51 (2025). <https://doi.org/10.1007/s10462-024-11036-2>.
@@ -78,13 +78,6 @@ and development of AI-based solutions" (Spanish - "IA y desarrollo de soluciones
 - (2024) Flower monthly January 2024. Title: "Federated Learning with Flower in the European Open Science Cloud". Talk given joinly with Á. López García. January 3, 2024. 
 
 
-Scientific posters
-======
-- (2023) Sáinz-Pardo Díaz, J.  López García, Á. (2023). Title: "Privacy preserving techniques for data science". X jornadas doctorales y V jornadas de divulgación grupo de Universidades del G9. University of Oviedo. May 31 - June 2, 2023. Oviedo, Spain. 
-- (2023) Sáinz-Pardo Díaz, J.  López García, Á. (2023). Title: "Application of federated learning to medical imaging scenarios". AIHUB CSIC Summer School. CaixaForum Macaya, Barcelona, Spain. July 4-8, 2023.
-- (2022) Sáinz-Pardo Díaz, J.  López García, Á. (2022). Title: "pyCANON: A Python library to check the level of anonymity of a dataset". 2nd Inria-DFKI European Summer School on Artificial Intelligence 2022 (IDESSAI 2022). Saarbrücken, Germany. August 29 - September 2, 2022. 
-
-
 Software
 ======
 - (2026) Sáinz-Pardo Díaz, J.,  López García, Á. (2026). trasgoDP. DOI: <https://zenodo.org/records/18754857>. 
@@ -102,3 +95,11 @@ Teaching:
 - (2023) Final master thesis supervision. Title: "Analyzing the performance of machine learning models on anonymized data". Author: Carmen Marcos Sánchez de la Blanca. Directors: Judith Sáinz-Pardo Díaz and Álvaro López García.  
 - (2023) Teaching: Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Subject: Security, privacy and legal aspects. 5 sessions (2 hours each).
 - (2022) Teaching: Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Subject: Security, privacy and legal aspects. 4 sessions (2 hours each).
+
+
+Scientific posters
+======
+- (2023) Sáinz-Pardo Díaz, J.  López García, Á. (2023). Title: "Privacy preserving techniques for data science". X jornadas doctorales y V jornadas de divulgación grupo de Universidades del G9. University of Oviedo. May 31 - June 2, 2023. Oviedo, Spain. 
+- (2023) Sáinz-Pardo Díaz, J.  López García, Á. (2023). Title: "Application of federated learning to medical imaging scenarios". AIHUB CSIC Summer School. CaixaForum Macaya, Barcelona, Spain. July 4-8, 2023.
+- (2022) Sáinz-Pardo Díaz, J.  López García, Á. (2022). Title: "pyCANON: A Python library to check the level of anonymity of a dataset". 2nd Inria-DFKI European Summer School on Artificial Intelligence 2022 (IDESSAI 2022). Saarbrücken, Germany. August 29 - September 2, 2022. 
+

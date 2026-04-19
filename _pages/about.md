@@ -19,11 +19,12 @@ I'm currently working on different European and National projects focused on the
 
 Research interests
 ======
-- Federated learning and others privacy preserving machine learning techniques.
-- Data privacy: anonymization, pseudonimization, differential privacy.
-- Privacy enhancing technologies.
-- Application of federated learning to different use cases: medical imaging, water quality, etc.
-- Artificial intelligence: machine learning and deep learning.
+- Federated learning and related distributed and privacy preserving machine learning algorithms.
+- Data privacy: anonymization, pseudonimization, differential privacy tools.
+- Privacy enhancing technologies, including homorphic encryption.
+- Application of federated learning to different use cases beyond privacy concerns: climate, agriculture, water quality, etc. Federated learning applied to medical use cases.
+- Interoprability in Artificial intelligence.
+- Federated LLMs and GenAI. 
 
 Short academic bio
 ------

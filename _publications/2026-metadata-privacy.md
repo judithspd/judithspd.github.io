@@ -1,7 +1,7 @@
 ---
-title: "Assessing metadata privacy in neuroimaging Open Access "
+title: "Assessing metadata privacy in neuroimaging Open Access"
 collection: publications
-permalink: /publication/2025-metadata-privacy
+permalink: /publication/2026-metadata-privacy
 date: 2026-01-26
 venue: 'Imaging Neuroscience'
 paperurl: 'https://doi.org/10.1162/IMAG.a.1144'

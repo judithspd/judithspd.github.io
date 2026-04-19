@@ -1,5 +1,5 @@
 ---
-title: "https://link.springer.com/article/10.1007/s10462-025-11164-3"
+title: "Machine learning operations landscape: platforms and tools"
 collection: publications
 permalink: /publication/2025-mlops
 date: 2025-03-17

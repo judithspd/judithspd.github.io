@@ -21,6 +21,7 @@ Education and research experience
 
 Publications in peer reviewed high impact journals
 ======
+- (2026) Sáinz-Pardo Díaz, J., Athanasiou, A., Jung, K., Palamidessi, C., & López García, Á. (2026). Metric-privacy-inspired noise calibration in federated learning: Improving convergence and preventing client inference attacks. Knowledge-Based Systems, 115993. <https://doi.org/10.1016/j.knosys.2026.115993>.
 - (2026) Kibsgaard, E. Jwa A. S., Markiewicz, C. J., Rodriguez Gonzalez, D., **Sáinz-Pardo, J.**, Poldrack, R. A., Pernet, C. R. (2026). Assessing metadata privacy in neuroimaging. Imaging Neuroscience 2026. <https://doi.org/10.1162/IMAG.a.1144>.
 - (2025) Berberi, L., Kozlov, V., Nguyen, G., **Sáinz-Pardo Díaz, J.**, et al. Machine learning operations landscape: platforms and tools. Artif Intell Rev 58, 167 (2025). <https://doi.org/10.1007/s10462-025-11164-3>.
 - (2025) Nguyen, G., **Sáinz-Pardo Díaz, J.**, Calatrava, A. et al. Landscape of machine learning evolution: privacy-preserving federated learning frameworks and tools. Artif Intell Rev 58, 51 (2025). <https://doi.org/10.1007/s10462-024-11036-2>.
@@ -42,6 +43,7 @@ Publications in high impact peer reviewed international conferences:
   
 Attendance to conferences and workshops:
 ======
+- (2026) 2nd EOSC SIESTA All Hands Meeting. Instituto de Economía, Geografía y Demografía del CSIC (IEGD). March 5-6, 2026. Madrid, Spain. Talks: "Data privacy: Data privacy, stage out and risk control", "Data privacy: Data privacy, stage out and risk control".
 - (2025) IEEE International Conference on Federated Learning Technologies and Applications (FLTA25). October 15-17, 2025. Dubrovnik, Croatia. Presentation of the paper: "Enhancing the Convergence of Federated Learning Aggregation Strategies with Limited Data".
 - (2025) EOSC SIESTA All Hands Meeting. Instituto de Física de Cantabria (IFCA). February 4-5, 2025. Santander, Spain. Talk: "Data privacy tools in EOSC SIESTA, anjana, pyCANON and differential privacy".
 - (2025) Artificial Intelligence and Software Engineering Winter School. University of Doha for Science and Technology (UDST). Janurary 19-22, 2025. Doha, Qatar. Workshop: "the eyes of AI". Topic: "Federated learning applied to image classification" (given jointly with Fernando Aguilar and Lara Lloret). 
@@ -65,6 +67,7 @@ distribuido: ventajas y peligros"). Talk (2/2): "Practical session on federated 
   
 Online talks and seminars given:
 ======
+- (2026) Event: EOSC SIESTA webinar: data privacy tools and trusted data repositories. Speaker and organizer of the event. March 18, 2026. Title of the talk: "Data anonymization in practice: anjana and pyCANON".
 - (2025) Event: EOSC SIESTA, ENTRUST and TITAN joint workshop. Chair and organizer of the event. December 10, 2025. 
 - (2025) Event: Accelerating Research with AI4EOSC: Real Use Cases Exploiting the Platform. Title: Introducing the AI4EOSC platform. May 9, 2025. 
 - (2025) Exploring AI4EOSC: AI and LLMs from Theory to Practice. Title: "Why AI4EOSC? Take advantage of the platform". March 7, 2025.
@@ -84,12 +87,14 @@ Scientific posters
 
 Software
 ======
+- (2026) Sáinz-Pardo Díaz, J.,  López García, Á. (2026). trasgoDP. DOI: <https://zenodo.org/records/18754857>. 
 - (2024) Sáinz-Pardo Díaz, J.,  López García, Á. (2024). ANJANA. DOI: <https://zenodo.org/records/11186382>.
 - (2024) Sáinz-Pardo Díaz, J.,  López García, Á. (2022). pyCANON. DOI: <https://doi.org/10.20350/digitalCSIC/15280>. 
 
 
 Teaching:
 ======
+- (2026) Teaching: Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Subject: Security, privacy and legal aspects. 6 sessions (2 hours each).
 - (2025) Teaching: Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Subject: Security, privacy and legal aspects. 8 sessions (2 hours each).
 - (2024) Teaching: Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Subject: Security, privacy and legal aspects. 7 sessions (2 hours each).
 - (2024) Final master thesis supervision. Title: "Comparison of distributed machine learning techniques applied to openly available medical data". Author: Marco Antonio Melgarejo Aragón. Directors: Judith Sáinz-Pardo Díaz and Álvaro López García.  

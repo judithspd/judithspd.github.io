@@ -36,6 +36,7 @@ Short academic bio
     
 Publications
 ------
+- (2026) Sáinz-Pardo Díaz, J., Athanasiou, A., Jung, K., Palamidessi, C., & López García, Á. (2026). Metric-privacy-inspired noise calibration in federated learning: Improving convergence and preventing client inference attacks. Knowledge-Based Systems, 115993. <https://doi.org/10.1016/j.knosys.2026.115993>.
 - (2026) Kibsgaard, E. Jwa A. S., Markiewicz, C. J., Rodriguez Gonzalez, D., **Sáinz-Pardo, J.**, Poldrack, R. A., Pernet, C. R. (2026). Assessing metadata privacy in neuroimaging. Imaging Neuroscience 2026. <https://doi.org/10.1162/IMAG.a.1144>.
 - (2025) **Sáinz-Pardo Díaz, J.** & López García, Á. _Enhancing the Convergence of Federated Learning Aggregation Strategies with Limited Data_. 3rd IEEE International Conference on Federated Learning Technologies and Applications 2025 (FLTA25). Dubrovnik, Croatia, 2025, pp. 9-16. <https://doi.org/10.1109/FLTA67013.2025.11336682>.
 - (2025) Duda, L., Alibabaei, K., Vollmer, E., Klug, L., Kozlov, V., Berberi, L., Benz, M., Volk, R., Gutiérrez Hermosillo Muriedas, J. P., Götz, M., **Sáinz-Pardo Díaz, J.**, López García, Á., Schultmann, F. & Streit, A. (2025). _Exploring Federated Learning for Thermal Urban Feature Segmentation - A Comparison of Centralized and Decentralized Approaches_. Computational Science and Its Applications – ICCSA 2025. ICCSA 2025. Lecture Notes in Computer Science, vol 15648. Springer, Cham. <https://doi.org/10.1007/978-3-031-97000-9_18>.

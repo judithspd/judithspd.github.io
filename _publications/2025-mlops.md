@@ -5,7 +5,7 @@ permalink: /publication/2025-mlops
 date: 2025-03-17
 venue: 'Artificial Intelligence Review'
 paperurl: 'https://link.springer.com/article/10.1007/s10462-024-11036-2'
-citation: 'Berberi, L., Kozlov, V., Nguyen, G. Sáinz-Pardo Díaz, J. et al. Machine learning operations landscape: platforms and tools. Artif Intell Rev 58, 167 (2025). https://doi.org/10.1007/s10462-025-11164-3
+citation: 'Berberi, L., Kozlov, V., Nguyen, G. Sáinz-Pardo Díaz, J. et al. Machine learning operations landscape: platforms and tools. Artif Intell Rev 58, 167 (2025). https://doi.org/10.1007/s10462-025-11164-3'
 ---
 
 **Abstract**

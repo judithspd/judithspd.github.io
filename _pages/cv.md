@@ -11,9 +11,10 @@ redirect_from:
 
 Education and research experience
 ======
+- (October 2025 - *present*) Postdoctoral Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC), Main projects: EOSC ARENA (scientific coordinator), EOSC SIESTA, FLUID-AI, ENGRAMMER. 
 - (September 2024 - December 2024) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: COMETE (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
 - (December 2022 - October 2025) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_ (_cum laude_). Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/).
-- (July 2021 - _present_) Data Science Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Working on different projects, mainly: FACE, AI4EOSC, EOSC SIESTA.
+- (July 2021 - October 2025) Data Science Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Main projects: FACE, AI4EOSC, EOSC SIESTA, AI4Clouds
 - (September 2020 - June 2021) Interuniversity Master in Data Science. International University Menendez Pelayo (UIMP) and University of Cantabria (UC). Final master thesis: _"Predictive Maintenance and Spectral Analysis: from Fourier to Machine Learning"_ (_cum laude_), available [here](https://digital.csic.es/handle/10261/245733).
 - (October 2017 - September 2019) Master in Entrepreneurship. University of Cantabria and CISE (Santander International Center for Entrepreneurship) with the support of Santander Universities.
 - (September 2016 - June 2020) Degree in mathematics with a major in computer science. University of Cantabria. Final degree project: _"Optimization Problems Associated with Differential Equation Models for Chemotherapy"_ (_cum laude_), available [here](https://repositorio.unican.es/xmlui/handle/10902/20601).
@@ -21,6 +22,7 @@ Education and research experience
 
 Publications in peer reviewed high impact journals
 ======
+- (2026) Heredia, Ignacio, et al. (2026). AI4EOSC: a federated cloud platform for artificial intelligence in scientific research. Future Generation Computer Systems, 108672. <https://doi.org/10.1016/j.future.2026.108672>.
 - (2026) **Sáinz-Pardo Díaz, J.**, Athanasiou, A., Jung, K., Palamidessi, C., & López García, Á. Metric-privacy-inspired noise calibration in federated learning: Improving convergence and preventing client inference attacks. Knowledge-Based Systems, 115993. <https://doi.org/10.1016/j.knosys.2026.115993>.
 - (2026) Kibsgaard, E. Jwa A. S., Markiewicz, C. J., Rodriguez Gonzalez, D., **Sáinz-Pardo, J.**, Poldrack, R. A., Pernet, C. R. (2026). Assessing metadata privacy in neuroimaging. Imaging Neuroscience 2026. <https://doi.org/10.1162/IMAG.a.1144>.
 - (2025) Berberi, L., Kozlov, V., Nguyen, G., **Sáinz-Pardo Díaz, J.**, et al. Machine learning operations landscape: platforms and tools. Artif Intell Rev 58, 167 (2025). <https://doi.org/10.1007/s10462-025-11164-3>.

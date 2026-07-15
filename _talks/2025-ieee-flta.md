@@ -3,7 +3,7 @@ title: "IEEE International Conference on Federated Learning Technologies and App
 collection: talks
 type: "Talk"
 permalink: /talks/2025-ieee-flta
-venue: "IEEE International Conference on Federated Learning Technologies and Applications 2025
+venue: "IEEE International Conference on Federated Learning Technologies and Applications 2025"
 date: 2025-10-17
 location: "Dubrovnik, Croatia"
 ---

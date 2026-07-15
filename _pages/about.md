@@ -12,23 +12,22 @@ About me
 ======
 I hold a PhD in Science and Technology from the University of Cantabria (UC), with my thesis titled "Privacy Preserving Techniques in Data Science Environments" presented in 2025, receiving the highest distinction (_cum laude_). I completed the degree in Mathematics with a major in Computer Science at the University of Cantabria (UC) in 2020 and the Master's in Data Science from the Menéndez Pelayo International University (UIMP) and the University of Cantabria (UC) in 2021. During my undergraduate studies, I was awarded with a scholarship to pursue a Master's in Entrepreneurship at the UC-Centro Internacional de Santander Emprendimiento. 
 
-From 2021 I have been working as a Data Science Researcher at the [Advanced Computing and e-Science Group](https://advancedcomputing.ifca.es/) at the [Institute of Physics of Cantabria](https://ifca.unican.es), affiliated with the [Spanish National Research Council (CSIC)](https://www.csic.es/).
+From 2021 I have been working as a Data Science Researcher (as postdoctoral researcher since October 2025) at the [Advanced Computing and e-Science Group](https://advancedcomputing.ifca.es/) at the [Institute of Physics of Cantabria](https://ifca.unican.es), affiliated with the [Spanish National Research Council (CSIC)](https://www.csic.es/).
 
 
-I'm currently working on different European and National projects focused on the development of advanced AI techniques, ML/DL models, Privacy Preserving Machine Learning techniques and data privacy.
+I'm currently working in different European and National projects focused on the development of advanced AI/GenAI techniques, LLMs, ML/DL models, Privacy Preserving Machine Learning techniques and data privacy, mainly in Horizon Europe funded EOSC ARENA, EOSC SIESTA and FLUID-AI projcts, serving as scientific coordinator of the former.
 
 Research interests
 ======
 - Federated learning and related distributed and privacy preserving machine learning algorithms.
-- Data privacy: anonymization, pseudonimization, differential privacy tools.
-- Privacy enhancing technologies, including homorphic encryption.
-- Application of federated learning to different use cases beyond privacy concerns: climate, agriculture, water quality, etc. Federated learning applied to medical use cases.
+- Privacy enhancing technologies and data privacy: anonymization, pseudonimization, differential privacy.
 - Interoprability in Artificial intelligence.
-- Federated LLMs and GenAI. 
+- Generative AI and agentic AI.
+- Federated training and fine-tuning of LLMs. 
 
 Short academic bio
 ------
-- (July 2021 - _present_) Data Science Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Working on different projects, mainly: FACE, [AI4EOSC](https://ai4eosc.eu/), [EOSC SIESTA](https://eosc-siesta.eu/), AI4Clouds, ENGRAMMER.
+- (July 2021 - _present_) Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Main projects: [EOSC ARENA](https://arena.ai4eosc.eu/) (**scientific coordinator**), [AI4EOSC](https://ai4eosc.eu/), [EOSC SIESTA](https://eosc-siesta.eu/), AI4Clouds, ENGRAMMER, FACE.
 - (September 2024 - December 2024) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: COMETE (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
 - (December 2022 - October 2025) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_ (_cum laude_). Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/). Available [here](https://aplicaciones.ciencia.gob.es/teseo/#/tesis/O882627/detalle).
 - (September 2020 - June 2021) Interuniversity Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Final master thesis: _"Predictive Maintenance and Spectral Analysis: from Fourier to Machine Learning"_ (_cum laude_), available [here](https://digital.csic.es/handle/10261/245733).
@@ -37,6 +36,7 @@ Short academic bio
     
 Publications
 ------
+- (2026) Heredia, Ignacio, et al. (2026). AI4EOSC: a federated cloud platform for artificial intelligence in scientific research. Future Generation Computer Systems, 108672. <https://doi.org/10.1016/j.future.2026.108672>.
 - (2026) **Sáinz-Pardo Díaz, J.**, Athanasiou, A., Jung, K., Palamidessi, C., & López García, Á. (2026). Metric-privacy-inspired noise calibration in federated learning: Improving convergence and preventing client inference attacks. Knowledge-Based Systems, 115993. <https://doi.org/10.1016/j.knosys.2026.115993>.
 - (2026) Kibsgaard, E. Jwa A. S., Markiewicz, C. J., Rodriguez Gonzalez, D., **Sáinz-Pardo, J.**, Poldrack, R. A., Pernet, C. R. (2026). Assessing metadata privacy in neuroimaging. Imaging Neuroscience 2026. <https://doi.org/10.1162/IMAG.a.1144>.
 - (2025) **Sáinz-Pardo Díaz, J.** & López García, Á. _Enhancing the Convergence of Federated Learning Aggregation Strategies with Limited Data_. 3rd IEEE International Conference on Federated Learning Technologies and Applications 2025 (FLTA25). Dubrovnik, Croatia, 2025, pp. 9-16. <https://doi.org/10.1109/FLTA67013.2025.11336682>.

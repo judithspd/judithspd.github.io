@@ -36,6 +36,9 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.collection == 'projects' %}
+          {% assign project_date = page.start_date | default: page.date | default: "1900-01-01" %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Start date:</strong> <time datetime="{{ project_date | date_to_xmlschema }}">{{ project_date | date: "%B %d, %Y" }}</time></p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
@@ -45,6 +48,17 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.collection == 'projects' %}
+          <div style="margin-bottom: 1.5rem; padding: 1rem 1.25rem; border-left: 4px solid #7a003c; background: #f9f9f9;">
+            <p><strong>Funding:</strong> {{ page.funding | default: "Not disclosed" }}</p>
+            <p><strong>Start date:</strong> {{ page.start_date | default: page.date | default: "Not available" | date: "%B %d, %Y" }}</p>
+            <p><strong>Duration:</strong> {{ page.duration | default: "Not available" }}</p>
+            <p><strong>Budget:</strong> {{ page.total_funding | default: page.budget | default: "Not disclosed" }}</p>
+            <p><strong>Coordinator:</strong> {{ page.coordinator | default: "Not specified" }}</p>
+            {% if page.role %}<p><strong>Role:</strong> {{ page.role }}</p>{% endif %}
+            {% if page.main_tasks %}<p><strong>Main tasks:</strong> {{ page.main_tasks }}</p>{% endif %}
+          </div>
+        {% endif %}
         {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl %}

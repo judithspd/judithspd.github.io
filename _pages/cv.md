@@ -37,6 +37,7 @@ Publications in peer reviewed high impact journals
   
 Publications in high impact peer reviewed international conferences:
 ======
+- (2026) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2026). _Privacy Preserving Machine Learning Workflow: from Anonymization to Personalized Differential Privacy Budgets in Federated Learning_. 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS), Valencia, Spain, 2026, pp. 21-28. <https://doi.org/10.1109/FLICS70075.2026.11621941>.
 - (2025) **Sáinz-Pardo Díaz, J.** & López García, Á. _Enhancing the Convergence of Federated Learning Aggregation Strategies with Limited Data_. 3rd IEEE International Conference on Federated Learning Technologies and Applications 2025 (FLTA25). Dubrovnik, Croatia, 2025, pp. 9-16. <https://doi.org/10.1109/FLTA67013.2025.11336682>.
 - (2025) Duda, L., Alibabaei, K., Vollmer, E., Klug, L., Kozlov, V., Berberi, L., Benz, M., Volk, R., Gutiérrez Hermosillo Muriedas, J. P., Götz, M., **Sáinz-Pardo Díaz, J.**, López García, Á., Schultmann, F. & Streit, A. (2025). _Exploring Federated Learning for Thermal Urban Feature Segmentation - A Comparison of Centralized and Decentralized Approaches_. Computational Science and Its Applications – ICCSA 2025. ICCSA 2025. Lecture Notes in Computer Science, vol 15648. Springer, Cham. <https://doi.org/10.1007/978-3-031-97000-9_18>.
 - (2025) Tran, V., Lopez Garía, Á., Nguyen, G., **Sáinz-Pardo Díaz, J.** & Moltó, G. _AI4EOSC: Artificial Intelligence for the European Open Science Cloud_. International Symposium on Grids and Clouds (ISGC2025). 16-21 March 2025 Academia Sinica Grid Computing Centre (ASGC), Taipei, Taiwan. <https://doi.org/10.22323/1.488.0003>.
@@ -45,6 +46,9 @@ Publications in high impact peer reviewed international conferences:
   
 Attendance to conferences and workshops:
 ======
+- (2026) 2026 Coordination meeting of EOSC projects. Brussels, Belgium, 8-9 July, 2026. Representing the EOSC ARENA, EOSC-SIESTA and FLUID-AI projects. Talk: "Scaling Cross-Project Collaboration across AI4EOSC, SIESTA, and TITAN" (given jointly with Á. López García). 
+- (2026) EOSC ARENA Kick-off meeting. Poznan, Poland, 16-19 June, 2026. 
+- (2026) 2026 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS). Valencia, Spain, 9-12 June 2026. Presentation of the paper: "Privacy Preserving Machine Learning Workflow: from Anonymization to Personalized Differential Privacy Budgets in Federated Learning".
 - (2026) 2nd EOSC SIESTA All Hands Meeting. Instituto de Economía, Geografía y Demografía del CSIC (IEGD). March 5-6, 2026. Madrid, Spain. Talks: "Data privacy: Data privacy, stage out and risk control", "Data privacy: Data privacy, stage out and risk control".
 - (2025) IEEE International Conference on Federated Learning Technologies and Applications (FLTA25). October 15-17, 2025. Dubrovnik, Croatia. Presentation of the paper: "Enhancing the Convergence of Federated Learning Aggregation Strategies with Limited Data".
 - (2025) EOSC SIESTA All Hands Meeting. Instituto de Física de Cantabria (IFCA). February 4-5, 2025. Santander, Spain. Talk: "Data privacy tools in EOSC SIESTA, anjana, pyCANON and differential privacy".
@@ -89,6 +93,7 @@ Software
 
 Teaching:
 ======
+- (2026) Final master thesis supervision. Title: "Predictive modelling of the carbon footprint of electricity consumption using time series forecasting techniques". Author: Pablo Montejo Redero. Directors: María Castrillo Melguizo (director) and Judith Sáinz-Pardo Díaz (co-director).
 - (2026) Teaching: Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Subject: Security, privacy and legal aspects. 6 sessions (2 hours each).
 - (2025) Teaching: Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Subject: Security, privacy and legal aspects. 8 sessions (2 hours each).
 - (2024) Teaching: Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Subject: Security, privacy and legal aspects. 7 sessions (2 hours each).

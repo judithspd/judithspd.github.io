@@ -15,7 +15,7 @@ I hold a PhD in Science and Technology from the University of Cantabria (UC), wi
 From 2021 I have been working as a Data Science Researcher (as postdoctoral researcher since October 2025) at the [Advanced Computing and e-Science Group](https://advancedcomputing.ifca.es/) at the [Institute of Physics of Cantabria](https://ifca.unican.es), affiliated with the [Spanish National Research Council (CSIC)](https://www.csic.es/).
 
 
-I'm currently working in different European and National projects focused on the development of advanced AI/GenAI techniques, LLMs, ML/DL models, Privacy Preserving Machine Learning techniques and data privacy, mainly in Horizon Europe funded [EOSC ARENA](https://arena.ai4eosc.eu/), [EOSC SIESTA](https://eosc-siesta.eu/) and [FLUID-AI](https://fluid.ai4eosc.eu/) projcts, serving as scientific coordinator of the former.
+I'm currently working in different European and National projects focused on the development of advanced AI/GenAI techniques, LLMs, ML/DL models, Privacy Preserving Machine Learning techniques and data privacy, mainly in Horizon Europe funded [EOSC ARENA](https://arena.ai4eosc.eu/), [EOSC SIESTA](https://eosc-siesta.eu/) and [FLUID-AI](https://fluid.ai4eosc.eu/) projects, serving as scientific coordinator of the former.
 
 Research interests
 ======
@@ -27,8 +27,8 @@ Research interests
 
 Short academic bio
 ------
-- (July 2021 - _present_) Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Main projects: [EOSC ARENA](https://arena.ai4eosc.eu/) (**scientific coordinator**), [AI4EOSC](https://ai4eosc.eu/), [EOSC SIESTA](https://eosc-siesta.eu/), AI4Clouds, ENGRAMMER, FACE.
-- (September 2024 - December 2024) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: COMETE (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
+- (July 2021 - _present_) Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Main projects: [EOSC ARENA](https://arena.ai4eosc.eu/) (**scientific coordinator**), [AI4EOSC](https://ai4eosc.eu/), [EOSC SIESTA](https://eosc-siesta.eu/), AI4Clouds, [ENGRAMMER](https://engrammer.eu/), FACE.
+- (September 2024 - December 2024) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: [COMETE](https://inria.fr/en/comete) (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
 - (December 2022 - October 2025) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_ (_cum laude_). Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/). Available [here](https://aplicaciones.ciencia.gob.es/teseo/#/tesis/O882627/detalle).
 - (September 2020 - June 2021) Interuniversity Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Final master thesis: _"Predictive Maintenance and Spectral Analysis: from Fourier to Machine Learning"_ (_cum laude_), available [here](https://digital.csic.es/handle/10261/245733).
 - (October 2017 - September 2019) Master in Entrepreneurship. University of Cantabria and CISE (Santander International Center for Entrepreneurship) with the support of Santander Universities.

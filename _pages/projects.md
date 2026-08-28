@@ -8,13 +8,16 @@ author_profile: true
 {% include base_path %}
 
 {% assign project_documents = site.projects.docs | default: site.projects %}
-{% assign international_projects = project_documents | where: "scope", "International" | sort: "date" | reverse %}
+{% assign international_projects = project_documents | where: "scope", "International" | sort: "display_order" %}
 {% assign national_projects = project_documents | where: "scope", "National" | sort: "date" | reverse %}
 
 <h2 style="margin-bottom: 1rem; border-bottom: 2px solid #7a003c; padding-bottom: 0.4rem; letter-spacing: 0.01em;">Participation and leadership in international projects</h2>
 
 {% for post in international_projects %}
   <div class="project-card" style="margin-bottom: 1.25rem; padding: 1.1rem 1.2rem; border: 1px solid #e5d8df; border-left: 6px solid #7a003c; background: linear-gradient(90deg, #fcf7fa 0%, #ffffff 100%); box-shadow: 0 1px 3px rgba(0,0,0,0.06);">
+    <div class="project-card__layout">
+      {% if post.logo %}<a class="project-card__logo" href="{{ post.website | default: post.url | relative_url }}"{% if post.website %} target="_blank" rel="noopener noreferrer"{% endif %}><img src="{% if post.logo contains '://' %}{{ post.logo }}{% else %}{{ post.logo | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="{{ post.title }} logo"></a>{% endif %}
+      <div class="project-card__body">
     <h3>
       {% if post.website %}
         <a href="{{ post.website }}" target="_blank" rel="noopener noreferrer">{{ post.title }}</a>
@@ -36,6 +39,8 @@ author_profile: true
     {% if post.excerpt %}
       <p>{{ post.excerpt }}</p>
     {% endif %}
+      </div>
+    </div>
   </div>
 {% endfor %}
 
@@ -43,6 +48,9 @@ author_profile: true
 
 {% for post in national_projects %}
   <div class="project-card" style="margin-bottom: 1.25rem; padding: 1.1rem 1.2rem; border: 1px solid #dfe6f7; border-left: 6px solid #4c6ef5; background: linear-gradient(90deg, #f7faff 0%, #ffffff 100%); box-shadow: 0 1px 3px rgba(0,0,0,0.06);">
+    <div class="project-card__layout">
+      {% if post.logo %}<a class="project-card__logo" href="{{ post.website | default: post.url | relative_url }}"{% if post.website %} target="_blank" rel="noopener noreferrer"{% endif %}><img src="{% if post.logo contains '://' %}{{ post.logo }}{% else %}{{ post.logo | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="{{ post.title }} logo"></a>{% endif %}
+      <div class="project-card__body">
     <h3>
       {% if post.website %}
         <a href="{{ post.website }}" target="_blank" rel="noopener noreferrer">{{ post.title }}</a>
@@ -64,5 +72,7 @@ author_profile: true
     {% if post.excerpt %}
       <p>{{ post.excerpt }}</p>
     {% endif %}
+      </div>
+    </div>
   </div>
 {% endfor %}

@@ -20,10 +20,11 @@ I'm currently working in different European and National projects focused on the
 Research interests
 ======
 - Federated learning and related distributed and privacy preserving machine learning algorithms.
+- Privacy-preserving AI and federated AI.
 - Privacy enhancing technologies and data privacy: anonymization, pseudonimization, differential privacy.
 - Interoprability in Artificial intelligence.
 - Generative AI and agentic AI.
-- Federated training and fine-tuning of LLMs. 
+- Federated training and fine-tuning of LLMs, small language models (SLMs), and personalized models for specific scientific domains.
 
 Short academic bio
 ------

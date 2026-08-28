@@ -8,9 +8,9 @@ date: 2024-02-23
 location: "Santander, Spain"
 ---
 
-Title of the master thesis supervised: Comparison of distributed machine learning techniques applied to openly available medical data. 
+Title of the master thesis supervised: Comparison of distributed machine learning techniques applied to openly available medical data.
 
-Author: Marco Antonio Melgarejo Aragón.   
+Author: Marco Antonio Melgarejo Aragón.
 
 Directors: Judith Sáinz-Pardo Díaz and Álvaro López García.
 

@@ -10,7 +10,7 @@ location: "Santander, Spain"
 
 Title of the master thesis supervised: ["Building a Python library for anonymizing sensitive data"](https://repositorio.unican.es/xmlui/handle/10902/30791). 
 
-Author: Esmeralda Madrazo Quintana.   
+Author: Esmeralda Madrazo Quintana.
 
 Directors: Álvaro López García and Judith Sáinz-Pardo Díaz.
 

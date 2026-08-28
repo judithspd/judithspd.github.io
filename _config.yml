@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Judith Sáinz-Pardo Díaz"
 name                     : &name "Judith Sáinz-Pardo Díaz"
-description              : &description "Data Science Researcher"
+description              : &description "Postdoctoral Researcher"
 url                      : https://judithspd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "judithspd/judithspd.github.io"
@@ -23,9 +23,10 @@ author:
   # avatar         : "profile.png"
   name             : "Judith Sáinz-Pardo Díaz"
   pronouns         : # example: "she/her"  
-  bio              : "Data Science Researcher"
+  bio              : "Postdoctoral Researcher"
   location         : "Spain"
   employer         : "Spanish National Research Council"
+  employer_url     : "https://www.csic.es/"
   uri              : # URL
   email            : "sainzpardo@ifca.es" 
 

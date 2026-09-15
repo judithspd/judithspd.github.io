@@ -21,6 +21,7 @@ Research interests
 ======
 - Federated learning and related distributed and privacy preserving machine learning algorithms.
 - Privacy-preserving AI and federated AI.
+- Data science, analysis and management. 
 - Privacy enhancing technologies and data privacy: anonymization, pseudonimization, differential privacy (see [IFCA-privacy-toolbox](https://ifca-privacy-toolbox.github.io/)).
 - Interoperability in Artificial intelligence.
 - Generative AI and agentic AI.

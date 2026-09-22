@@ -22,6 +22,7 @@ Education and research experience
 
 Publications in peer reviewed high impact journals
 ======
+- (2026) Castrillo Melguizo, M., Iglesias Blanco, J., **Sáinz-Pardo Díaz, J.**, & López García, Á. (2026). _Wattnet: Matching electricity consumption with low-carbon, low-water footprint energy supply_. Sustainable Computing: Informatics and Systems, 101473. <https://doi.org/10.1016/j.suscom.2026.101473>.
 - (2026) Heredia, I. et al. (2026). AI4EOSC: a federated cloud platform for artificial intelligence in scientific research. Future Generation Computer Systems, 108672. <https://doi.org/10.1016/j.future.2026.108672>.
 - (2026) **Sáinz-Pardo Díaz, J.**, Athanasiou, A., Jung, K., Palamidessi, C., & López García, Á. Metric-privacy-inspired noise calibration in federated learning: Improving convergence and preventing client inference attacks. Knowledge-Based Systems, 115993. <https://doi.org/10.1016/j.knosys.2026.115993>.
 - (2026) Kibsgaard, E. Jwa A. S., Markiewicz, C. J., Rodriguez Gonzalez, D., **Sáinz-Pardo, J.**, Poldrack, R. A., Pernet, C. R. (2026). Assessing metadata privacy in neuroimaging. Imaging Neuroscience 2026. <https://doi.org/10.1162/IMAG.a.1144>.

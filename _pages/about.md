@@ -15,7 +15,7 @@ I hold a PhD in Science and Technology from the University of Cantabria (UC), wi
 From 2021 I have been working as a Data Science Researcher (as postdoctoral researcher since October 2025) at the [Advanced Computing and e-Science Group](https://advancedcomputing.ifca.es/) at the [Institute of Physics of Cantabria](https://ifca.unican.es), affiliated with the [Spanish National Research Council (CSIC)](https://www.csic.es/).
 
 
-I'm currently working in different European and National projects focused on the development of advanced AI/GenAI techniques, LLMs, ML/DL models, Privacy Preserving Machine Learning techniques and data privacy, mainly in Horizon Europe funded [EOSC ARENA](https://arena.ai4eosc.eu/), [EOSC SIESTA](https://eosc-siesta.eu/), GenAI4Earth and [FLUID-AI](https://fluid.ai4eosc.eu/) projects, serving as scientific coordinator of the former.
+I'm currently working in different European and National projects focused on the development of advanced AI/GenAI techniques, LLMs, ML/DL models, Privacy Preserving Machine Learning techniques and data privacy, mainly in Horizon Europe funded [EOSC ARENA](https://arena.ai4eosc.eu/), [EOSC SIESTA](https://eosc-siesta.eu/), [FLUID-AI4EOSC](https://fluid.ai4eosc.eu/) and GenAI4Earth projects, serving as scientific coordinator of the former.
 
 Research interests
 ======
@@ -29,7 +29,7 @@ Research interests
 
 Short academic bio
 ------
-- (July 2021 - _present_) Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Main projects: [EOSC ARENA](https://arena.ai4eosc.eu/) (**scientific coordinator**), [AI4EOSC](https://ai4eosc.eu/), [EOSC SIESTA](https://eosc-siesta.eu/), AI4Clouds, [ENGRAMMER](https://engrammer.eu/), FACE.
+- (July 2021 - _present_) Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Main projects: [EOSC ARENA](https://arena.ai4eosc.eu/) (**scientific coordinator**), [FLUID-AI4EOSC](https://fluid.ai4eosc.eu/), [EOSC SIESTA](https://eosc-siesta.eu/), [AI4EOSC](https://ai4eosc.eu/), [ENGRAMMER](https://engrammer.eu/), AI4Clouds, FACE.
 - (September 2024 - December 2024) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: [COMETE](https://inria.fr/en/comete) (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
 - (December 2022 - October 2025) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_ (_cum laude_). Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/). Available [here](https://aplicaciones.ciencia.gob.es/teseo/#/tesis/O882627/detalle).
 - (September 2020 - June 2021) Interuniversity Master in Data Science. International University Menéndez Pelayo (UIMP) and University of Cantabria (UC). Final master thesis: _"Predictive Maintenance and Spectral Analysis: from Fourier to Machine Learning"_ (_cum laude_), available [here](https://digital.csic.es/handle/10261/245733).
@@ -38,6 +38,7 @@ Short academic bio
     
 Publications
 ------
+- (2026) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2026). trasgoDP: An open source framework for releasing noised tabular microdata under local differential privacy. SoftwareX, 36,  <https://doi.org/10.1016/j.softx.2026.103171>.
 - (2026) Castrillo Melguizo, M., Iglesias Blanco, J., **Sáinz-Pardo Díaz, J.**, & López García, Á. (2026). Wattnet: Matching electricity consumption with low-carbon, low-water footprint energy supply. Sustainable Computing: Informatics and Systems, 101473. <https://doi.org/10.1016/j.suscom.2026.101473>.
 - (2026) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2026). Privacy Preserving Machine Learning Workflow: from Anonymization to Personalized Differential Privacy Budgets in Federated Learning. 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS), Valencia, Spain, 2026, pp. 21-28. <https://doi.org/10.1109/FLICS70075.2026.11621941>.
 - (2026) Heredia, Ignacio, et al. (2026). AI4EOSC: a federated cloud platform for artificial intelligence in scientific research. Future Generation Computer Systems, 108672. <https://doi.org/10.1016/j.future.2026.108672>.

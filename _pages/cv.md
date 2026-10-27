@@ -11,7 +11,7 @@ redirect_from:
 
 Education and research experience
 ======
-- (October 2025 - *present*) Postdoctoral Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC), Main projects: [EOSC ARENA](https://arena.ai4eosc.eu/) (scientific coordinator), [EOSC SIESTA](https://eosc-siesta.eu/), [FLUID-AI](https://fluid.ai4eosc.eu/), [ENGRAMMER](https://engrammer.eu/).
+- (October 2025 - *present*) Postdoctoral Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC), Main projects: [EOSC ARENA](https://arena.ai4eosc.eu/) (scientific coordinator), [EOSC SIESTA](https://eosc-siesta.eu/), [FLUID-AI4EOSC](https://fluid.ai4eosc.eu/), [ENGRAMMER](https://engrammer.eu/).
 - (September 2024 - December 2024) Visiting Researcher at INRIA Paris Saclay (Campus de l'École Polytechnique). Project team: COMETE (Privacy, Fairness and Robustness in Information Management). Supervisor: Catuscia Palamidessi, PhD. 
 - (December 2022 - October 2025) PhD in Science and Technology. University of Cantabria. _"Privacy Preserving Techniques for Data Science Environments"_ (_cum laude_), available [here](https://aplicaciones.ciencia.gob.es/teseo/#/tesis/O882627/detalle). Supervisor: [Álvaro López García, PhD](https://alvarolopez.github.io/).
 - (July 2021 - October 2025) Data Science Researcher at the Institute of Physics of Cantabria (Spanish National Research Council, CSIC). Main projects: FACE, AI4EOSC, EOSC SIESTA, AI4Clouds
@@ -22,6 +22,7 @@ Education and research experience
 
 Publications in peer reviewed high impact journals
 ======
+- (2026) **Sáinz-Pardo Díaz, J.**, & López García, Á. (2026). trasgoDP: An open source framework for releasing noised tabular microdata under local differential privacy. SoftwareX, 36,  <https://doi.org/10.1016/j.softx.2026.103171>.
 - (2026) Castrillo Melguizo, M., Iglesias Blanco, J., **Sáinz-Pardo Díaz, J.**, & López García, Á. (2026). _Wattnet: Matching electricity consumption with low-carbon, low-water footprint energy supply_. Sustainable Computing: Informatics and Systems, 101473. <https://doi.org/10.1016/j.suscom.2026.101473>.
 - (2026) Heredia, I. et al. (2026). AI4EOSC: a federated cloud platform for artificial intelligence in scientific research. Future Generation Computer Systems, 108672. <https://doi.org/10.1016/j.future.2026.108672>.
 - (2026) **Sáinz-Pardo Díaz, J.**, Athanasiou, A., Jung, K., Palamidessi, C., & López García, Á. Metric-privacy-inspired noise calibration in federated learning: Improving convergence and preventing client inference attacks. Knowledge-Based Systems, 115993. <https://doi.org/10.1016/j.knosys.2026.115993>.
